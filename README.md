@@ -2,7 +2,7 @@
 
 Welcome! 
 
-This repository contains a RESPONSIVE Spotify clone home page created for educational purposes to fix Javascript learning.
+This repository contains a App of a simple calculator using some HTML, CSS and Javascript resources such as Functions, Events and DOM..
 
 This project was developed during the [Complete Web Development](https://www.udemy.com/course/web-completo/) course (Section Javascript) held at UDEMY.
 
